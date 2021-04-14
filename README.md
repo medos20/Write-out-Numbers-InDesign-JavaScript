@@ -2,6 +2,7 @@
 Write Out Numbers into Arabic or English or French(Text).
 
 About
+
 Write Out Numbers into Arabic or English or French(Text).
 Version 1.00-April 2021.
 Techno&Design Youtube Channel.
@@ -15,6 +16,7 @@ Theunis' legacy will continue to live through the many people that he has inspir
 We cannot be grateful enough for all his contributions. Our deepest condolences to his family and his loved ones.
 
 Help
+
 Write Out Numbers into Text Help. Version 1.00 - April 2021. 
 1-Languages Supported in this Version are Arabic,English and French.
 2-To Use the Script Correctly just Put Hashtag Symbol (#) Text Frame into Master Single Page or Facing Pages.
