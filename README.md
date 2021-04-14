@@ -5,10 +5,12 @@ About
 Write Out Numbers into Arabic or English or French(Text).
 Version 1.00-April 2021.
 Techno&Design Youtube Channel.
+
 English Version By : Theunis De Jong-Known as Jongware(1966-2020).
 Arabic and French Version By : Mohammed Ibrahim.
 UI Design and Programming By : Mohammed Ibrahim
 Contact me : medos20.mi@gmail.com.
+
 Theunis' legacy will continue to live through the many people that he has inspired and helped on this community.
 We cannot be grateful enough for all his contributions. Our deepest condolences to his family and his loved ones.
 
