@@ -5,7 +5,7 @@ Write Out Numbers into Arabic or English or French(Text).
 
 
 
-![about](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/About.jpg)
+
 
 About
 
@@ -21,7 +21,8 @@ Contact me : medos20.mi@gmail.com.
 Theunis' legacy will continue to live through the many people that he has inspired and helped on this community.
 We cannot be grateful enough for all his contributions. Our deepest condolences to his family and his loved ones.
 
-![HELP](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Help.jpg)
+![about](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/About.jpg)
+
 
 Help
 
@@ -34,6 +35,8 @@ Write Out Numbers into Text Help. Version 1.00 - April 2021.
 6-Notice that the maximum number of pages supported in Arabic and French Languages is 3000 Pages Only However it's Unlimited in English Language.
 7-Notice that if you put One Hashtag Symbol (#) Text Frame in one page in Facing Pages Document it Will Only Write Out the Numbers in this Page(Even Or Odd).Have Fun and Contact me with any ideas!
 medos20.mi@gmail.com
+
+![HELP](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Help.jpg)
 
 See Youtube Video Tutorial about the Script (in Arabic Language but Understandable by Examples)
 https://youtu.be/z1m9KMOQ7xs
