@@ -4,7 +4,7 @@ Write Out Numbers into Arabic or English or French(Text).
 ![User Interface](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Script%20UI.jpg)
 
 
-#About
+# About
 
 Write Out Numbers into Arabic or English or French(Text).
 Version 1.00-April 2021.
@@ -18,7 +18,7 @@ Contact me : medos20.mi@gmail.com.
 ![about](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/About.jpg)
 
 
-#Help
+# Help
 
 ![HELP](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Help.jpg)
 
