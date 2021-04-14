@@ -23,5 +23,5 @@ Write Out Numbers into Text Help. Version 1.00 - April 2021.
 7-Notice that if you put One Hashtag Symbol (#) Text Frame in one page in Facing Pages Document it Will Only Write Out the Numbers in this Page(Even Or Odd).Have Fun and Contact me with any ideas!
 medos20.mi@gmail.com
 
-See Youtube Video (Arabic but Understandable)
+See Youtube Video Tutorial about the Script (in Arabic Language but Understandable by Examples)
 https://youtu.be/z1m9KMOQ7xs
