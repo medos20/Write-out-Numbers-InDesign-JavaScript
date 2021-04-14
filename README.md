@@ -41,5 +41,5 @@ medos20.mi@gmail.com
 See Youtube Video Tutorial about the Script (in Arabic Language but Understandable by Examples)
 https://youtu.be/z1m9KMOQ7xs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z1m9KMOQ7xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z1m9KMOQ7xs&t/0.jpg)](https://youtu.be/z1m9KMOQ7xs)
 
