@@ -4,7 +4,7 @@ Write Out Numbers into Arabic or English or French(Text).
 ![User Interface](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Script%20UI.jpg)
 
 
-![About](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Help.jpg)
+
 
 About
 
@@ -19,6 +19,8 @@ Contact me : medos20.mi@gmail.com.
 
 Theunis' legacy will continue to live through the many people that he has inspired and helped on this community.
 We cannot be grateful enough for all his contributions. Our deepest condolences to his family and his loved ones.
+
+![HELP](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Help.jpg)
 
 Help
 
