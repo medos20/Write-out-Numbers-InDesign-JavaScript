@@ -38,7 +38,8 @@ medos20.mi@gmail.com
 
 ![HELP](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Help.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z1m9KMOQ7xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 See Youtube Video Tutorial about the Script (in Arabic Language but Understandable by Examples)
 https://youtu.be/z1m9KMOQ7xs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1m9KMOQ7xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
