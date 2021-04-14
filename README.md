@@ -3,8 +3,6 @@ Write Out Numbers into Arabic or English or French(Text).
 
 ![User Interface](medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Script%20UI.jpg)
 
-https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Script%20UI.jpg
-[url=https://up4net.com/uploads4/up4net.com161839049796821.jpg]
 
 About
 
