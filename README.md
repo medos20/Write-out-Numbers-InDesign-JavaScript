@@ -1,7 +1,7 @@
 # Write-out-Numbers-InDesign-JavaScript
 Write Out Numbers into Arabic or English or French(Text).
 
-![User Interface](/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Script%20UI.jpg)
+![User Interface](/images/Write-out-Numbers-InDesign-JavaScript/blob/main/Script%20UI.jpg)
 
 
 About
