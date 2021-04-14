@@ -4,8 +4,10 @@ Write Out Numbers into Arabic or English or French(Text).
 ![User Interface](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Script%20UI.jpg)
 
 # How it Works ?
+Just Put Hashtag (#) into Master Pages and Rund the Script, Select the Proper Language and you are done!
 ![User Interface](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/2-3.jpg?raw=true)
 
+with English you can write-out unlimited pages, Arabic and Frech are Limited to 3000 Pages.
 
 # About
 
