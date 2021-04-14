@@ -5,6 +5,7 @@ Write Out Numbers into Arabic or English or French(Text).
 
 
 
+[!about](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/About.jpg)
 
 About
 
