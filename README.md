@@ -28,7 +28,7 @@ Contact me : medos20.mi@gmail.com.
 ![HELP](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Help.jpg)
 
 # Copyright (c) 2021 - Hasanain Scripts
-All Rights Reserved to Mohammad Ibrahim Hasanain on Destributin this Script or Modifying it
+All Rights Reserved to Mohammad Ibrahim Hasanain on Destributing this Script or Modifying it
 
 # Youtube Tutorial
 
